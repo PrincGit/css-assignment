@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+p{
+    color: white;
+}
+h1{
+    color: red;
+}
+ul{
+    color: antiquewhite;
+
+}
+.form{
+    background-color: blue;
+}
+ol{
+    color:cyan;
+}
